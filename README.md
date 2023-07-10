@@ -1,4 +1,4 @@
-![image](https://github.com/suptimusfika/Selenium_TestNG_OrangeHRM_Automation/assets/48064134/e3ad512e-e9c9-45c3-b9f9-5e3571076760)# Selenium_TestNG_OrangeHRM_Automation
+# Selenium_TestNG_OrangeHRM_Automation
 I have created a selenium testNG project for automating OrangeHRM website and asserting the expected message after successfull activities.
 
 ## Scenario
